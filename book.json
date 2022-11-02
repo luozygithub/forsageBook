@@ -9,12 +9,12 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/huyingfang/book/blob/main",
+            "base": "https://github.com/Allocard/book/blob/main",
             "label": "编辑此页"
         },
         "github-buttons": {
             "buttons": [{
-                "user": "huyingfang",
+                "user": "Allocard",
                 "repo": "book",
                 "type": "star",
                 "size": "small"
