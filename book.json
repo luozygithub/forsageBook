@@ -1,0 +1,24 @@
+{
+    "title": "FireDAO白皮书",
+    "language": "zh-hans",
+    "plugins": [
+        "edit-link",
+        "github-buttons",
+        "chapter-fold",
+        "expandable-chapters"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/huyingfang/book/blob/main",
+            "label": "编辑此页"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "huyingfang",
+                "repo": "book",
+                "type": "star",
+                "size": "small"
+            }]
+        }
+    }
+}
