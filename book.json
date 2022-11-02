@@ -5,7 +5,9 @@
         "edit-link",
         "github-buttons",
         "chapter-fold",
-        "expandable-chapters"
+        "expandable-chapters",
+        "splitter",
+        "page-toc-button"
     ],
     "pluginsConfig": {
         "edit-link": {
