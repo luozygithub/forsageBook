@@ -1,7 +1,7 @@
 # 三种通证
 
-## [治理通证FDT](治理通证FDT原始发行方案.md)
+## [治理通证FDT](FDT.md)
 
-## [激励通证FLAME](激励通证FLAME发行方案.md)
+## [激励通证FLAME](FLAME.md)
 
-## [灵魂锁定通证SBT](六种灵魂锁定通证SBT.md)
+## [灵魂锁定通证SBT](SBT.md)
