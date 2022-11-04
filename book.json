@@ -7,7 +7,8 @@
         "chapter-fold",
         "expandable-chapters",
         "splitter",
-        "page-toc-button"
+        "page-toc-button",
+        "multilingual-index"
     ],
     "pluginsConfig": {
         "edit-link": {
