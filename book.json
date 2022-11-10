@@ -1,19 +1,21 @@
 {
-    "title": "FireDAO白皮书",
-    "language": "zh-hans",
     "plugins": [
+        "language-selected",
         "edit-link",
-        "github-buttons",
         "chapter-fold",
         "expandable-chapters",
         "splitter",
         "page-toc-button",
         "multilingual-index"
     ],
+
     "pluginsConfig": {
+        "language-picker": {
+            "grid-columns": 2
+        },
         "edit-link": {
             "base": "https://github.com/Allocard/book/blob/main",
-            "label": "编辑此页"
+            "label": "EDIT"
         },
         "github-buttons": {
             "buttons": [{
