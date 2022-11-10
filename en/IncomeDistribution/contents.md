@@ -1,5 +1,5 @@
-# FireDAO收入和分配
+# Income Distribution
 
-## [FireDAO生态](FireDAOEcology.md)
+## [FireDAO Ecology](FireDAOEcology.md)
 
-## [财政部](MinistryOfFinance.md)
+## [Ministry Of Finance](MinistryOfFinance.md)

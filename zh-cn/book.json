@@ -3,25 +3,24 @@
     "language": "zh-hans",
     "plugins": [
         "edit-link",
-        "github-buttons",
+        "github",
         "chapter-fold",
         "expandable-chapters",
         "splitter",
         "page-toc-button",
-        "multilingual-index"
+        "multilingual-index",
+        "hide-element"
     ],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/Allocard/book/blob/main",
-            "label": "EDIT"
+            "label": "编辑"
         },
-        "github-buttons": {
-            "buttons": [{
-                "user": "Allocard",
-                "repo": "book",
-                "type": "star",
-                "size": "small"
-            }]
+        "github": {
+            "url": "https://github.com/Allocard/book"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
     }
 }

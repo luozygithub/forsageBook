@@ -6,7 +6,9 @@
         "expandable-chapters",
         "splitter",
         "page-toc-button",
-        "multilingual-index"
+        "multilingual-index",
+        "hide-element",
+        "github"
     ],
 
     "pluginsConfig": {
@@ -17,13 +19,11 @@
             "base": "https://github.com/Allocard/book/blob/main",
             "label": "EDIT"
         },
-        "github-buttons": {
-            "buttons": [{
-                "user": "Allocard",
-                "repo": "book",
-                "type": "star",
-                "size": "small"
-            }]
+        "github": {
+            "url": "https://github.com/Allocard/book"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
     }
 }

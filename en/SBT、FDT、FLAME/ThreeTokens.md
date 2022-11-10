@@ -1,7 +1,7 @@
-# 三种通证
+# Three kinds of tokens
 
-## [治理通证FDT](FDT.md)
+## [FDT](FDT.md)
 
-## [激励通证FLAME](FLAME.md)
+## [FLAME](FLAME.md)
 
-## [灵魂锁定通证SBT](SBT.md)
+## [SBT](SBT.md)

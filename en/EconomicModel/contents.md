@@ -1,5 +1,5 @@
-# 经济模型
+# Economic Model
 
-## [FireDAO经济模型](FireDAOEconomicModel.md)
+## [FireDAO Economic Model](FireDAOEconomicModel.md)
 
-## [灵魂绑定账户与FID声誉系统](SoulboundAndFID.md)
+## [Soulbound And FID](SoulboundAndFID.md)

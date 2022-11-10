@@ -1,11 +1,11 @@
-# 介绍
+# Introduction
 
-## [为什么要创建FireDAO?](why.md)
+## [Why create FireDAO?](why.md)
 
-## [FireDAO是什么?](what.md)
+## [What is FireDAO?](what.md)
 
-## [愿景、使命、价值观](VisionMissionValues.md)
+## [Vision, Mission And Values](VisionMissionValues.md)
 
-## [FID与链上声誉系统](FIDAndOn-ChainReputation.md)
+## [FID And On-Chain Reputation](FIDAndOn-ChainReputation.md)
 
-## [如何加入FireDAO?](join.md)
+## [How to join FireDAO?](join.md)

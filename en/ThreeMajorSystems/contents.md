@@ -1,7 +1,7 @@
-# 三大体系
+# Three Major Systems
 
-## [邀请推荐体系](InvitationToRecommend.md)
+## [Invitation To Recommend](InvitationToRecommend.md)
 
-## [公会体系](Guild.md)
+## [Guild](Guild.md)
 
-## [城市节点体系](CityNode.md)
+## [City Node](CityNode.md)

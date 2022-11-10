@@ -1,22 +1,22 @@
 
 * [Preface](README.md)
-* [Background](background/contents.md)
-  - [DecentralizedSocietyAndWeb3Soul](background/DecentralizedSocietyAndWeb3Soul.md)
-  - [TheEssenceOfDecentralizedCivilization](background/TheEssenceOfDecentralizedCivilization.md)
+* [Background](Background/contents.md)
+  - [Decentralized Society And Web3Soul](Background/DecentralizedSocietyAndWeb3Soul.md)
+  - [TheEssence Of Decentralized Civilization](Background/TheEssenceOfDecentralizedCivilization.md)
  
 
-* [Introduction](introduction/contents.md)
-  - [为什么要创建FireDAO?](introduction/why.md)
-  - [FireDAO是什么?](introduction/what.md)
-  - [愿景、使命、价值观](introduction/VisionMissionValues.md)
-  - [FID与链上声誉系统](introduction/FIDAndOn-ChainReputation.md)
-  - [如何加入FireDAO?](introduction/join.md)
+* [Introduction](Introduction/contents.md)
+  - [Why create FireDAO??](Introduction/why.md)
+  - [What is FireDAO?](Introduction/what.md)
+  - [Vision, Mission And Values](Introduction/VisionMissionValues.md)
+  - [FID And On-Chain Reputation](Introduction/FIDAndOn-ChainReputation.md)
+  - [How to join FireDAO?](Introduction/join.md)
 
 
 
-* [EconomicModel](EconomicModel/contents.md)
-  - [FireDAOEconomicModel](EconomicModel/FireDAOEconomicModel.md)
-  - [SoulboundAndFID](EconomicModel/SoulboundAndFID.md)
+* [Economic Model](EconomicModel/contents.md)
+  - [FireDAO Economic Model](EconomicModel/FireDAOEconomicModel.md)
+  - [Soulbound And FID](EconomicModel/SoulboundAndFID.md)
 
 
 
@@ -26,30 +26,30 @@
   * [FLAME](SBT、FDT、FLAME/FLAME.md)
 
 
-* [IncomeDistribution](IncomeDistribution/contents.md)
-  * [FireDAOEcology](IncomeDistribution/FireDAOEcology.md)
-  * [MinistryOfFinance](IncomeDistribution/MinistryOfFinance.md)
+* [Income Distribution](IncomeDistribution/contents.md)
+  * [FireDAO Ecology](IncomeDistribution/FireDAOEcology.md)
+  * [Ministry Of Finance](IncomeDistribution/MinistryOfFinance.md)
 
 
 
-* [ThreeMajorSystems](ThreeMajorSystems/contents.md)
-  * [InvitationToRecommend](ThreeMajorSystems/InvitationToRecommend.md)
+* [Three Major Systems](ThreeMajorSystems/contents.md)
+  * [Invitation To Recommend](ThreeMajorSystems/InvitationToRecommend.md)
   * [Guild](ThreeMajorSystems/Guild.md)
-  * [CityNode](ThreeMajorSystems/CityNode.md)
+  * [City Node](ThreeMajorSystems/CityNode.md)
 
 
 
-* [OffersAndRewardsPolicy](OffersAndRewardsPolicy/contents.md)
+* [Offers And Rewards Policy](OffersAndRewardsPolicy/contents.md)
   * [Airdrop](OffersAndRewardsPolicy/Airdrop.md)
-  * [FDTLPLockedMining](OffersAndRewardsPolicy/FDTLPLockedMining.md)
-  * [FDTLockedMining](OffersAndRewardsPolicy/FDTLockedMining.md)
+  * [FDT LP Locked Mining](OffersAndRewardsPolicy/FDTLPLockedMining.md)
+  * [FDT Locked Mining](OffersAndRewardsPolicy/FDTLockedMining.md)
 
 
 
 * [Community](Community/contents.md)
-  * [CommunityActivities](Community/CommunityActivities.md)
-  * [EcologicalDevelopment](Community/EcologicalDevelopment.md)
+  * [Community Activities](Community/CommunityActivities.md)
+  * [Ecological Development](Community/EcologicalDevelopment.md)
 
 
 
-* [DevelopmentHistoryAndDisclaimer](DevelopmentHistoryAndDisclaimer/contents.md)
+* [Development History And Disclaimer](DevelopmentHistoryAndDisclaimer/contents.md)

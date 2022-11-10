@@ -1,7 +1,7 @@
-# 三大福利
+# Offers And Rewards Policy
 
-## [空投及奖励](Airdrop.md)
+## [Airdrop](Airdrop.md)
 
-## [FDT的LP锁仓挖矿](FDTLP.md)
+## [FDT-LP Locked Mining](FDTLP.md)
 
-## [FDT锁仓挖矿](FDT.md)
+## [FDT Locked Mining](FDT.md)
