@@ -9,7 +9,8 @@
         "splitter",
         "page-toc-button",
         "multilingual-index",
-        "hide-element"
+        "hide-element",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "edit-link": {
