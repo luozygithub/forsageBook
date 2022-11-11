@@ -1,16 +1,16 @@
 
 * [前言](README.md)
-* [背景](background/contents.md)
-  - [“去中心化社会”与“Web3 Soul”](background/DecentralizedSocietyAndWeb3Soul.md)
-  - [“去中心化文明”的本质](background/TheEssenceOfDecentralizedCivilization.md)
+* [背景](Background/contents.md)
+  - [“去中心化社会”与“Web3 Soul”](Background/DecentralizedSocietyAndWeb3Soul.md)
+  - [“去中心化文明”的本质](Background/TheEssenceOfDecentralizedCivilization.md)
  
 
-* [介绍](introduction/contents.md)
-  - [为什么要创建FireDAO?](introduction/why.md)
-  - [FireDAO是什么?](introduction/what.md)
-  - [愿景、使命、价值观](introduction/VisionMissionValues.md)
-  - [FID与链上声誉系统](introduction/FIDAndOn-ChainReputation.md)
-  - [如何加入FireDAO?](introduction/join.md)
+* [介绍](Introduction/contents.md)
+  - [为什么要创建FireDAO?](Introduction/why.md)
+  - [FireDAO是什么?](Introduction/what.md)
+  - [愿景、使命、价值观](Introduction/VisionMissionValues.md)
+  - [FID与链上声誉系统](Introduction/FIDAndOn-ChainReputation.md)
+  - [如何加入FireDAO?](Introduction/join.md)
 
 
 
