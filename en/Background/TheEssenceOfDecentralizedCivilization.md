@@ -1,7 +1,11 @@
-## “去中心化文明”的本质
+## The Essence of Bit Civilization
 
-&emsp;&emsp;同时我们认为Decentralized Society的概念还应该得到更进一步的拓展和升华。Web3代表的不仅仅是一个去中心化的社会，Web3代表的应该是一个正在蓬勃发展的去中心化的文明。。Web3将是一个建立在数学和算法基石之上的一个高级文明，它代表了全人类的解放和自由，我们将其称之为“去中心化文明”——“Decentralized Civilization” ，简称DeCiv。
+Meanwhile, we also believe that the concept of Decentralized Society should be further expanded and sublimated. Web3 represents not only a decentralized society, but also a thriving decentralized civilization. Web3 will be an advanced civilization built on mathematics and algorithms , which represents the liberation and freedom of the entire human race. This is also what  we call Decentralized Civilization or DeCiv.
 
-&emsp;&emsp;DeCiv将区别于人类社会现有的文明体系，是一个建立在区块链基石之上的更加高级的文明。在DeCiv中，人类的一切资产：货币、股票、权证、房产等，一切资讯：商业信息、交易信息、学习信息、生活信息等，一切行为：商业行为、生老病死、沟通交流等，都可以在不同的区块链上以数据的形式记录下来，并且以不同Token的形式实现价值的分割与流通，构建一个全新的身份证明体系和价值流转体系。
+Because this civilization originated from the creation and construction of Bitcoin, we also call this advanced civilization Bit Civilization. This is also the concept first proposed by FireKun, the core initiator of FireDAO, on the Satoshi Nakamoto Bitcointalk Forum in July 2021.
 
-&emsp;&emsp;人类的所有行为都可以以数据的形式记录在区块链上，并且通过代码、通过算法、通过规则、通过合约来实现数据的交换与传递，这就是我们所认为的“去中心化文明”的本质，这也是对“去中心化社会”概念的拓展和升级。
+Bit Civilization will distinguish it from the existing civilization system of human society. It is a more advanced civilization built on the cornerstone of the blockchain.
+
+In Bit Civilization, all human assets such as currency, stocks, certificates, real estate, all information such as  business information, transactions, learning and life information, all activities such as business behavior, life cycles, communication will be recorded in the form of data on different blockchains. The segmentation and circulation of value, therefore, are to be realized in the form of different Tokens, and thus a brand-new identity verification system and value circulation system are constructed.
+
+All human activities can be recorded on blockchains in the form of data, and the exchange and transmission of data can be realized through code, algorithms,rules, and smart contracts. This is the essence of the Bit Civilization and also an expansion and upgrade of the concept of decentralized society.
