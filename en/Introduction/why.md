@@ -1,11 +1,19 @@
 # 为什么要创建FireDAO?
 
-&emsp;&emsp;在人类文明的发展史上，从来没有一项发明能像火那样对人类影响那么大。从东方的钻木取火到西方的普罗米修斯盗火，火伴随着人类文明进化的每一步。火是人类实现文明的最重要的物质工具之一，可以说：没有火就没有人类，更没有人类文明。火，在寒冬黑夜为人类提供温暖和光明，用火加工过的食物更加易于为人类所消化吸收，并进一步促进人类大脑的发育，最终把人类和动物区别开来。所以，火是人类诞生智慧的原动力，火帮助人类进入文明时代。
+In the history of human civilization, no invention has ever had such a tremendous impact on human beings as fire. From drilling fire in the East to Prometheus stealing fire in the West, fire has witnessed each stage of the evolution of human civilization. Fire is one of the most important tangible tools for mankind to achieve civilization. It is said that without fire, there would be no human beings, let alone human civilization.
 
-&emsp;&emsp;在古老的希腊神话传说中，地球上本没有火种，没有火来照明，没有火来烧烤食物，人类只好在无边的黑暗中，度过一个又一个漫长的黑夜。普罗米修斯看到人类的困苦，为了给人类造福，他从太阳神阿波罗那里盗走了一个火种，让人间充满了烟火，人间则迎来了温暖与光明。而普罗米修斯则被众神之主宙斯惩罚，被永不斩断的铁链锁在高加索山脉的悬崖绝壁中，忍受着饥饿、风吹、烈日、暴雨和鹰食的折磨。是普罗米修斯盗来的火种让人类充满了温暖与光明。
+Fire provides human beings with warmth and light in the dark nights of winter. Food processed with fire is easier for humans to digest and absorb,  and further promotes the development of human brains, which ultimately distinguished humans from animals. Therefore,  fire is the driving force behind human wisdom and brings human beings to enter the era of civilization.
 
-&emsp;&emsp;人类文明在不断进化和发展，当2009年中本聪创造出比特币的那一刻，一个建立在数学和算法基石之上的人类高级文明诞生了，这就是我们今天所说的“去中心化文明”，它完全从本质上区别于人类现有的文明，这也是我们今天所探索的Web3的世界。中本聪创造的比特币就像普罗米修斯盗取的火种一样，为现有人类文明的进化带来了全新的光明。中本聪将比特币投放到了地球，让充满智慧的文明之火熊熊燃起。
+In ancient Greek Mythology, there was no such thing as fire on earth to illuminate or grill food. Humans had to spend lives in endless darkness. Prometheus saw the plight of mankind and decided to steal a tinder from Apollo,  God of the Sun, and brought the world light and warmth.Because of this, Prometheus was punished by Zeus, the Lord of gods, being chained to cliffs of the Caucasus Mountains. Since then he had suffered from hunger, bitter wind, scorching Sun, brutal rain and eagle attacks. It was the fire  stolen by Prometheus that filled human beings  with warmth and light.
 
-&emsp;&emsp;在我们看来，比特币是点燃人类“去中心化文明”的火种，而我们现在如火如荼建设的Web3世界则是“去中心化文明”的灵魂，而DAO组织则是Web3的灵魂。而要让文明之火源源不断燃烧，烧得越旺越长久，则离不开文明燃料的供给。而我们今天发起创建的“FireDAO”就是“文明之火”的燃料。我们希望通过“FireDAO”的创建与延续，为“去中心化文明”熊熊烈火的燃烧提供源源不断的燃料，传承智慧，助燃文明。
+## Bible Genesis 1:3:
 
-&emsp;&emsp;普罗米修斯曾与智慧女神雅典娜共同创造了人类，普罗米修斯负责用泥土雕塑出人的形状，雅典娜则为泥人灌注灵魂，并教会了人类很多知识。
+#### And God said, Let there be light: and there was light.
+
+When Satoshi Nakamoto created Bitcoin in 2009, when the Genesis Block of Bitcoin was dug out, an advanced human civilization based on the cornerstone of mathematics and algorithms was born. Human society is bathed in a new light of civilization. This is what we call the Bit Civilization today.
+
+The Bit Civilization is fundamentally different from the existing civilization of human beings and leads to the Web3 world we are exploring today. The Bitcoin created by Satoshi Nakamoto is like the tinder that Prometheus stole, bringing a new light to the evolution of the existing civilization. Satoshi Nakamoto put Bitcoin on the earth, igniting the fire of a civilization full of wisdom.
+
+In our opinion, Bitcoin is the tinder that ignites the Bit Civilization of human beings and the Web3 world we are building now is the soul of this Bit Civilization , and DAO organization is the soul of Web3. In order to keep the civilization fire burning continuously, the more prosperous and longer the burning, the more supply of civilization fuel will be.
+
+The FireDAO that we launched  and created today is the fuel for the fire of civilization. We hope that through the creation and continuation of FireDAO, we can provide a steady stream of fuel for the burning of Bit Civilization and thus inherit wisdom and prosper civilization.
