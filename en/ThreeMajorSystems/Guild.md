@@ -1,9 +1,9 @@
-# 公会体系
+# Guild System
 
-FireDAO从整体功能上来讲，将会由一个个公会构建而成。
+In terms of overall function, FireDAO will be built by guilds.
 
-&emsp;&emsp;为了更好得推进FireDAO的建设和拓展，我们将会从整体架构层面建设一个个功能不同的公会，每个公会承担不同的职责，负责DAO整体运营和建设。公会在FireDAO里的标准定义为人才池，其致力于把特定才能的人聚合到一起，它性质上，它类似于公司里不同的职能部门。
+In order to better promote the construction and expansion of FireDAO, we will build guilds with different functions from the overall structure level. Each guild assumes different responsibilities, being responsible for the overall operation and construction of DAO. Guilds are defined by the standard in FireDAO as talent pools, which are dedicated to bringing together people with specific talents. In nature, it is similar to different functional departments in a company.
 
-&emsp;&emsp;与城市节点无需许可加入不同，社区成员加入不同公会需要通过申请加入，前期审核由团队负责，当公会发展到一定阶段，每个公会都会成立专项的管理委员会，最终由各个公会的管理委员会负责该公会的管理。同时，不同的公会可以向DAO金库申请活动预算，为公会做出贡献的成员也会获得固定或者不固定的薪酬激励，最大限度得激发优秀社区成员的积极性和能动性。
+Unlike Citynodes which do not require permission to join, community members need to apply to join different guilds. The preliminary review is the responsibility of the Team. As the guild develops to a certain stage, each guild will set up a special management committee that will be responsible for the guild management. Meanwhile, different guilds can apply to the DAO treasury for activity budgets, and members who contribute to the guild will also receive fixed or variable salary incentives to maximize the enthusiasm and initiative of outstanding community members.
 
-&emsp;&emsp;FireDAO在发展前期将会建立十个公会，未来将会根据实际运转情况进行调整，这十大公会分别是财务公会、运营公会、研究公会、市场公会、教育公会、法律公会、开发公会、设计和视频公会、翻译公会、数据分析公会。这十大公会分别承担不同的职能，任何有FID的社区成员都可以向相应的公会申请加入。每个加入公会的成员都将成为FireDAO的核心贡献者。
+FireDAO will establish twelve guilds in the early stage of development, which will be adjusted according to the actual operation in the future. The twelve guilds are Finance Guild, Operations Guild, Investment Guild, Research Guild, Marketing Guild, Education Guild, Law Guild, Development Guild, Design & Video Guild , Translation Guild, Data Analysis Guild, and Charity and Public Welfare Guild. These twelve guilds have different functions, and any community member with FID can apply to the relative guild to join. Every member who joins the guild will become a core contributor to FireDAO.

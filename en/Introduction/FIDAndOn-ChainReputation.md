@@ -1,3 +1,5 @@
 # FID与链上声誉系统
 
-&emsp;&emsp;每一个灵魂账户都会分配一个FID，作为这个DAO正式成员的链上身份ID，展示这个成员的链上身份信息，并且与灵魂账户进行绑定。不同的SBT享有不同的权重系数，通过统计“灵魂账户”中不同“灵魂绑定通证”的数量和权重系数，每一个FID都会得到一个“综合声誉分值”，就是这个FID的“链上声誉”。
+Each Soul Account will be assigned a FID as the on-chain identity ID of the full DAO member, displaying the member’s on-chain identity information, and binding with the Soul Account.
+
+Different SBTs have different weight coefficients. By counting the number and weight coefficients of different Soulbound tokens in the Soul Accounts, each FID will get a comprehensive reputation score to form the On-chain Reputation of the FID.
