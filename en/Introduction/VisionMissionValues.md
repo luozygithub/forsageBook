@@ -1,9 +1,11 @@
-# 愿景、使命、价值观
+# Vision, Mission, Values
 
-&emsp;&emsp;我们是加密世界的爱好者和信仰者，我们认为，人类社会将会因为Web3的蓬勃发展，逐渐进入一个建立在数学和算法基石之上的高级文明，它就是“去中心化文明”。
+We are enthusiasts and believers in the crypto world, and we believe that  human society will gradually enter an advanced civilization built on the cornerstone of mathematics and algorithms thanks to the flourishing development of Web3, which is the Bit Civilization.
 
-&emsp;&emsp;在我们看来，比特币是点燃“去中心化文明”的“火种”，我们现在如火如荼建设的Web3世界则是“去中心化文明”的灵魂，而DAO属于Web3的灵魂。如果想让“文明之火”不断燃烧，烧得越旺越久，则离不开文明燃料的供给。我们今天发起创建的“FireDAO”就是“文明之火”的燃料。我们希望通过“FireDAO”的创建和延续，进行一场探索Web3 Soul 的社会实验，通过“火种”的传递和点燃，为“去中心化文明”熊熊烈火的燃烧提供源源不断的燃料，传承智慧，助燃文明。
+In our opinion, Bitcoin is the tinde that ignites Bit Civilization, the Web3 world we are building in full swing now is the soul of Bit Civilization, and DAO belongs to the soul of Web3. If we want the fire of civilization to continue to burn and burn continuously, the supply of civilization fuel is inevitable.
 
-&emsp;&emsp;我们将会联合全球的Web3加密社区，采集火种，传递火种，分发火焰，燃烧火种，铸造火魂，创建FID，我们希望通过这一次探索Web3 Soul 的社会性实验，最终建立一个不分国家、不分地区、不分宗教、不分种族、不分民族、不分肤色、不分语言的全球DAO协同体系、全球DAO价值分配体系和全球DAO社区治理体系，最终打造一个践行真正加密精神的链上超级经济体。
+FireDAO , which we launched and created today , is the fuel for the fire of civilization. We hope that through the creation and continuation of FireDAO, we will conduct a social experiment to explore the Web3’s Soul. Through the transmission and ignition of the FireSeed, we hope to provide a steady stream of fuel for the burning of the Decentralized Civilization raging fire, inherit wisdom and prosper civilization.
 
-&emsp;&emsp;在创建“FireDAO”的过程中，我们将全面坚持“公开、公平、公正，共创、共治、共有，自由、透明、去中心化”等加密世界最核心的思想和价值观，我们希望在这些思想和精神的指导下，建立一个非常纯粹的DAO组织，我们希望可以引领整个加密世界DAO组织的进化和发展，最终为全球DAO组织的拓展打造一个进化模型和发展样板。
+We will unite global Web3 crypto communities to collect FireSeeds, pass FireSeeds, distribute Flames, cast FireSouls and creat FIDs. We hope that through this social experiment of exploring Web3 Soul, we will eventually establish a global DAO coordination system, a DAO value distribution system and a DAO community governance system regardless of nations, regions, religions, races, complexions and languages and ultimately create an on-chain super economy that practices  the true spirit of encryption.
+
+In the process of building FireDAO, we will fully adhere to the core ideas and values of the crypto world such as openness, fairness, justice, co-creation, co-governance, co-ownership, freedom, transparency and decentralization. We hope that under the guidance of these thoughts and spirit, we will establish a pure DAO that leads to the evolution and development of the entire encrypted world DAOs and ultimately build an evolutionary development model for the expansion of the global DAOs.

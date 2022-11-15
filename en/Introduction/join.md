@@ -1,5 +1,5 @@
-# 如何加入FireDAO?
+# How to join FireDAO
 
-&emsp;&emsp;加入“FireDAO”无需许可，通过智能合约自动加入。我们将会在全球Web3加密社区传递火种，任何拥有火种的社区成员都可以燃烧火种，铸造一枚“火魂账户”，即可成为FireDAO的正式成员。
+Joining FireDAO requires no permission and is automatically joined by smart contracts. We will deliver FireSeed in the global Web3 encrytion community. Any community member who owns FireSeed can burn it and mint a FireSoul Account to become an full member of FireDAO.
 
-&emsp;&emsp;“火魂账户”是每一个正式DAO成员的“灵魂账户”，以ERC721的形式铸造，不可转让，它主要用于储存每个DAO正式成员收到的不同的“灵魂绑定Token”，每一个“灵魂绑定Token”记录了这个社区成员不同类型的社区行为，用于评估这个DAO正式成员的不同的社区贡献。
+FireSoul Account is the Soul Account of each full DAO member. It is minted in the form of non-transferable ERC721 and used to store the different Soulbound Tokens received by each DAO member. Each Soulbound Token records different types of community activities and evaluates the community contributions of this DAO member.
