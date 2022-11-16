@@ -1,5 +1,11 @@
-# 社区活动
+# Community Activities
 
-&emsp;&emsp;FireDAO不仅仅是一个基于FireSoul和FID的 Web身份系统，FireDAO是由深度参与加密货币的领导者、创作者、建设者、信仰者和支持者组成的一个社区，是一个社交DAO，我们坚信Web3终将改变世界。因此，加强社区成员之间的交流与互动也是我们发起成立FireDAO的根本任务。我们希望以FID为中心，构建一个由志同道合的人组成的精心策划的社区，我们希望通过举办各种类型的活动，链接每一个社区成员的链上身份与链下生活，让每一个社区成员都可以结识他们在其他任何地方都不会遇到的新朋友，并促进彼此之间的互动与友谊。
+FireDAO is not only a Web3 identity system based on FireSoul and FID, but also a community made up of leaders, creators, builders, believers and supporters who are deeply involved in cryptocurrencies. FireDAO is a social DAO believer in that Web3 will change the world eventually.
 
-&emsp;&emsp;为加强全球社区成员之间的交流与互动，链接每一个DAO成员之间的链上身份与链下生活，我们将分别针对线上与线下开展不同类型的活动。在线上，我们将创办社区论坛，方便全球不同地区的社区成员都可以通过社区论坛进行深度交流；在线下，我们将会以城市节点为中心，开展各种类型的Face to Face 社区见面会活动，尽可能得给全球DAO成员创造不同类型的线下交流机会，这才是我们创办社交DAO的初衷。
+Therefore, strengthening the communication and interaction among community members is also our fundamental mission to launch FireDAO. We want to focus on FID and build a well-planned community of like-minded people.
+
+We hope to connect the on-chain identity and off-chain life of each community member by holding various types of activities, so that each community member can meet new people they won’t meet anywhere else and foster interaction and friendship with one another.
+
+In order to strengthen the communication and interaction between global community members and link the on-chain identity and off-chain life of each DAO member, we will carry out different types of activities online and offline.
+
+Online, we will create Community Ecology Forum to facilitate in-depth communication between community members in different regions of the world. Offline, we will focus on Citynodes carrying out various types of Face to Face activities to create different types of offline communication opportunities for global DAO members as many as possible, which is our intention of creating social DAO.

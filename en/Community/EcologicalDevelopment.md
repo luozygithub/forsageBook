@@ -1,19 +1,27 @@
-# 生态拓展
+# Ecosystem  Extension
 
-&emsp;&emsp;FireDAO 是一个基于FID灵魂绑定账户的社交性DAO组织，是一个社区驱动型的链上自治经济体。FireDAO以灵魂账户和FID为中心，结合不同类型的灵魂绑定通证，计算链上声誉分值，最终构建了一套原生的web3链上身份体系。
+FireDAO is a social DAO based on FID Soulbound accounts, a community-driven on-chain autonomous economy. FireDAO takes Soul Account and FID as its core, combines different types of Soulbound tokens, calculates the On-chain Reputation scores , and ultimately builds a native web3 on-chain identity system.
 
-&emsp;&emsp;在FireDAO生态拓展的第一步，我们的核心工作是尽可能完整得打造Web3身份体系，我们希望最快速度将铸造火魂的数量突破10万枚，这将成为全球影响力最大的DAO社区之一。
+In the first stage of FireDAO's ecological expansion, our core work is to build a Web3 identity system as complete as possible. We hope to exceed 100,000 FireSouls as soon as possible, which will become one of the most influential DAO communities in the world.
 
-&emsp;&emsp;当我们的FID的数量不断拓展后，我们的Web3身份体系将成为整个Web3世界的底层基础设施，不管是FireDAO生态内部，还是FireDAO生态外部，任何加密项目都可以集成我们的Web3身份体系，最快速度得将FireDAO的社区生态成员与这些Web3产品相融合，打造成为一个更为透明、更为开放的Web3生态，这也是Vitalik Buterin等人在论文中所提到的场景。
+As the number of our FIDs continues to expand, our Web3 identity system will  become the underlying  infrastructure of the entire Web3 world. Whether it’s the inside or outside FireDAO ecosystem, any encryption project can integrate our Web3 identity systems, and by the fastest way to integrate FireDAO's  ecosystem members with these Web3 products to create a more transparent and open Web3 ecosystem, which is also the scenario mentioned in the Paper written by Vitalik Buterin and others.
 
-&emsp;&emsp;当FireDAO的FID身份系统发展到一定阶段后，我们将以Web3身份系统为基点，陆续向以下生态进行拓展，包括但不限于：
+When FireDAO's FID identity system develops to a certain stage, we will continue to expand to the following ecosystems based on the Web3 identity system, including but not limited to:
 
-- 基于FID的去中心化域名系统；
-- 基于链上声誉的无抵押或者部分抵押贷款市场；
-- 基于SBTs的社交恢复系统；
-- 基于SBTs的NFT灵魂发行市场；
-- 基于链上声誉的DAO公投系统；
-- 针对SBTs的灵魂空投；
-- 以SBTs为主要形式的多元化资产，手稿、房产、证书、艺术品等。
+FID-based decentralized domain name system;
 
-&emsp;&emsp;这些都将是FireDAO未来陆续拓展的领域，我们一同实现DeSoc和DeCiv的愿景——共同做决定的世界。在这个世界里，灵魂可以跟社区自下而上的聚集在一起，作为彼此的新兴属性，最终一起构建一个多元化的链上社会。
+An uncollateralized or partially collateralized loan market based on On-chain Reputation;
+
+Behavioral medal system based on SBTs;
+
+Social recovery system based on SBTs;
+
+NFT soul issuance market based on SBTs;
+
+DAO referendum system based on On-chain Reputation;
+
+Soul airdrop for SBTs;
+
+Diversified assets with SBTs as the main form, manuscripts, real estate, certificates, works of art, etc.
+
+The above are the areas that FireDAO will continue to expand in the future, and we will work together to realize the vision of DeSoc and BitCiv - a co-determined world. In this world, souls can gather with the community bottom up as each other's emerging attributes, and finally build a diverse on-chain society together.
