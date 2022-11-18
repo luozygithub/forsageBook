@@ -1,21 +1,23 @@
-# FDT的LP锁仓挖矿
+# FDT Liquidity LP Mining
 
-&emsp;&emsp;为了对更多的长期价值投资者进行激励，FireDAO特推出针对FDT的LP流动性挖矿激励活动。每个社区成员都可以将FDT与BNB的的流动性LP，锁入流动性挖矿矿池，可以挖取激励代币FLMAE，获得的FLAME可以兑换成FDT，并且分两年时间线性释放完毕。
+In order to incentivize more long-term value investors, FireDAO has launched an （a） Liquidity  LP Mining incentive activity for FDT. Each community member can lock the Liquidity LP of FDT and BNB’s into the liquidity mining pool, and can mine the incentive token FLM. The obtained FLMs can be converted to FDTs, which will be released linearly within two years.
 
-&emsp;&emsp;根据锁仓时间的不同，确定不同的挖矿权重系数，锁仓时间越长，挖矿权重越高，协议依靠铸造的灵魂锁定代币FD-SBR-005的数量来执行具体的奖励政策。
+Different mining weight coefficients are determined by various lockup period. The longer the lock-up is, the higher the mining weight will be. Mining pools enforce specific reward policies depending on the number of FD-SBT-005 owned by different wallets.
 
-&emsp;&emsp;在这个锁仓过程中，协议一共铸造两种SBT，FD-SBT-001和FD-SBR-005。FD-SBT-001主要用于统计此灵魂账户的FDT综合持仓信息，FD-SBT-005主要用于统计此灵魂账户的流动性挖矿信息。整个生态根据FD-SBT-001的持仓权重比例进行FDT生态分红，根据FD-SBT-005的持仓权重比例进行流动性挖矿奖励。
+During this lock-up, the protocol mints a total of two SBTs, FD-SBT-001 and FD-SBR-005. FD-SBT-001 is mainly used to count the FDT comprehensive position information of this Soul Account, and FD-SBT-005 is to count the liquidity mining information. The entire ecology will distribute FDT ecological dividends according to the position weight ratio of FD-SBT-001, and provide liquidity mining rewards according to the position weight ratio of FD-SBT-005.
 
-&emsp;&emsp;根据LP锁仓时此LP包含FDT的数量和权重系数来确定FD-SBT-001的铸造数量，如果此时LP中包含10000枚FDT，锁仓3个月，权重系数为3，则同比铸造,30000枚FD-SBT-001。同时由于LP中包含的FDT数量是时刻变动的，如果锁仓时间结束，需要从矿池中取出LP，则根据取出LP的比例销毁同等比例的FD-SBT-001。如果锁仓时间到了，不从锁仓矿池中提取LP，则此笔订单继续享受原来的政策。
+The minting quantity of FD-SBT-001 is determined by the number and weight coefficient of FDT contained in the LP during LP’s lock-up. If the LP contains 10,000 FDTs, for example, the position is locked for 3 months, and the weight coefficient is 3, then the minting amount is 30,000 FD-SBT-001s. Meanwhile, since the amount of FDT contained in LP changes from time to time, if the lock-up matures and LP needs to be withdrawn from the mining pool, the same proportion of FD-SBT-001s will be burned according to the proportion of withdrawn LP. If the lock-up time ends and LP is not withdrawn from the lock-up pool, the order will continue to enjoy the original policy.
 
-&emsp;&emsp;根据LP锁仓时LP的数量和权重系统来确定铸造FD-SBT-005的数量。活期锁仓情况下，1枚LP可以铸造1000枚FD-SBT-005，如果锁仓3个月，权重系数为3，存入1枚LP则可以铸造3000枚FD-SBT-005。同时如果锁仓时间结束，需要从矿池中取出LP，则根据取出LP的比例销毁同等比例的FD-SBT-005。
+The number of minted FD-SBT-005 is determined by the number of LPs and the weighting system when the LP is locked. In the case of current lock, 1 LP can mint 1000 FD-SBT-005s. If locked for 3 months and the weight factor is 3, then 1 LP can mint 3000 FD-SBT-005s. In the meantime, if the lock-up matures and LPs need to be withdrawn from the mining pool, the same proportion of FD-SBT-005s will be burned according to the proportion of withdrawn LPs.
 
-## 锁仓规则
+## FDT Liquidity LP Mining Weight Design
 
-- 活期 -- 权重系数：1
-- 1个月 -- 权重系数：2
-- 3个月 -- 权重系数：3
-- 6个月 -- 权重系数：4
-- 12个月 -- 权重系数：5
-- 24个月 -- 权重系数：6
-- 36个月 -- 权重系数：7
+|  No. | Lock-up Period |  Weight Coefficient  
+| :--: |  :----------:  | :-------:
+|  1.  | Demand Deposit |    1
+|  2.  |    1 month     |    2
+|  3.  |    3 months    |    3
+|  4.  |    6 months    |    4
+|  5.  |    12 months   |    5
+|  6.  |    24 months   |    6
+|  7.  |    36 months   |    7

@@ -1,21 +1,23 @@
-# FDT锁仓挖矿
+# FDT Lock-up Mining
 
-&emsp;&emsp;为了对更多的长期价值投资者进行激励，FireDAO特推出针对FDT的本币锁仓挖矿激励活动。每个社区成员都可以将FDT锁入锁仓挖矿矿池，根据锁仓时间的不同分配不同的权重系数，可以挖取激励代币FLMAE，获得的FLAME可以兑换成FDT，并且分两年时间释放完毕。
+In order to motivate more long-term value investors, FireDAO has launched a FDT Lock-up Mining. Each community member can lock FDTs into the mining pool, assign different weight coefficients according to various lock-up period and can mine the incentive token FLMs. The obtained FLMs can be converted to FDTs, which will be released linearly within two years.
 
-&emsp;&emsp;根据锁仓时间的不同，确定不同的挖矿权重系数，锁仓时间越长，挖矿权重越高，协议依靠铸造的灵魂锁定代币FD-SBT-006的数量来执行具体的挖矿奖励政策。
+Different mining weight coefficients are determined by various lockup period. The longer the lock-up is, the higher the mining weight will be. The protocol relies on the number of  FD-SBT-006 to implement specific mining reward policy.
 
-&emsp;&emsp;在这个锁仓过程中，协议一共铸造两种SBT，FD-SBT-001和FD-SBR-006。FD-SBT-001主要用于统计此灵魂账户的FDT综合持仓信息，FD-SBT-006主要用于统计此灵魂账户的FDT锁仓挖矿信息。整个生态根据FD-SBT-001的持仓权重比例进行生态收入分红，根据FD-SBT-006的持仓权重比例进行锁仓挖矿奖励。
+During this lock-up, the protocol mints a total of two SBTs, FD-SBT-001 and FD-SBT-006. FD-SBT-001 is mainly used to count the FDT comprehensive position information of this Soul Account, and FD-SBT-006 is to count the lock-up  mining information  for this Soul Account.. The whole ecology distributes the ecological income according to the proportion of holding weight of the FD-SBT-001, and rewards the lock position mining according to the proportion of holding weight of the FD-SBT-006.
 
-&emsp;&emsp;根据FDT锁仓时包含FDT的数量和权重系数来确定FD-SBT-001的铸造数量，如果此时锁仓10000枚FDT，锁仓3个月，权重系数为3，则同比铸造30000枚FD-SBT-001。如果锁仓时间结束，需要从矿池中取出FDT，则根据此锁仓订单中取出FDT的比例销毁同等比例的FD-SBT-001。如果锁仓时间到了，不从锁仓矿池中提取FDT，则此笔FDT继续享受原来的政策。
+The minting quantity of FD-SBT-001 is determined by the number and weight coefficient of FDTs during the lock-up. If 10,000 FDTs are locked, for example, the period for 3 months, and the weight coefficient is 3, then the minting amount is  30,000 FD-SBT-001s. If the lock-up matures and FDTs need to be withdrawn from the mining pool, the same proportion of FD-SBT-001s will be burned according to the proportion of withdrawal from the lock-up order. If the lock-up time ends and FDTs are not withdrawn from the lock-up pool, the order will continue to enjoy the original policy.
 
-&emsp;&emsp;根据FDT锁仓时包含FDT的数量和权重系数来确定FD-SBT-006的铸造数量，如果此时锁仓10000枚FDT，锁仓3个月，权重系数为3，则同比铸造30000枚FD-SBT-006。如果锁仓时间结束，需要从矿池中取出FDT，则根据此锁仓订单中取出FDT的比例销毁同等比例的FD-SBT-006。如果锁仓时间到了，不从锁仓矿池中提取FDT，则此笔FDT继续享受原来政策。
+The minting quantity of FD-SBT-006 is determined by the number of FDTs and the weight coefficient during the FDTs lock-up. If 10,000 FDTs are locked for 3 months, and the weight coefficient is 3, then 30,000 FD- SBT-006s will be minted. If the lock-up matures and FDTs need to be withdrawn from the mining pool, the same proportion of FD-SBT-006 will be destroyed according to the proportion of FDTs withdrawal from the lock-up order. If the lock-up time ends and FDTs are not withdrawn from the lock-up pool, the FDTs will continue to enjoy the original policy.
 
-## 锁仓规则
+## FDT Lock-up Mining Weight Design
 
-- 活期 -- 权重系数：1
-- 1个月 -- 权重系数：2
-- 3个月 -- 权重系数：3
-- 6个月 -- 权重系数：4
-- 12个月 -- 权重系数：5
-- 24个月 -- 权重系数：6
-- 36个月 -- 权重系数：7
+|  No. | Lock-up Period |  Weight Coefficient  
+| :--: |  :----------:  | :-------:
+|  1.  | Demand Deposit |    1
+|  2.  |    1 month     |    2
+|  3.  |    3 months    |    3
+|  4.  |    6 months    |    4
+|  5.  |    12 months   |    5
+|  6.  |    24 months   |    6
+|  7.  |    36 months   |    7
