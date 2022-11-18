@@ -1,4 +1,4 @@
-# Risk Warning and Disclaimer
+# Risk Warning & Disclaimer
 
 This document is for informational purposes only with the basic introduction of the project. It is not and cannot be regarded as a guidance or commitment to investment, cooperating with any specific or unspecified subject, and is not and cannot be regarded as the project team's financial promises or guarantees to the project.
 
