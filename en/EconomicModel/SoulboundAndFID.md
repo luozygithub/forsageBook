@@ -1,11 +1,13 @@
-# 灵魂绑定账户与FID声誉系统
+# Soulbound Account and FID Reputation System
 
-&emsp;&emsp;FireSoul，代币类型：ERC721拓展，不可转让，灵魂绑定。
+FireSoul, token type: ERC721, non-transferable, soul bound.
 
-&emsp;&emsp;FireSoul属于火种DAO的灵魂账户，由身份代币FireSeed燃烧铸造而成，当一个用户铸造一个灵魂账户后，才可以成为火种DAO的正式成员。每一个灵魂账户都会分配一个FID，这个ID属于这个灵魂账户的链上声誉，同时可以设置用户的用户名、社交信息等，作为社区成员的综合信息展示页面。
+FireSoul is the Soul Account of FireDAO. It is minted by burning the identity token FireSeed. Each wallet can only mint one non-transferable account that records the SBT information of different Soulbound tokens owned by this wallet.
 
-&emsp;&emsp;每个钱包只能铸造一个灵魂账户，生成一个FID，这个账户不可转让。这个灵魂账户记录这个钱包拥有的不同的灵魂绑定代币SBT信息。不同的SBT享有不同的权重系数，由SBT的持仓数量乘以权重系数，计算出一个灵魂账户的综合权重，这个综合权重也就成为这个灵魂账户的FID综合信誉分数。以FID的综合声誉分数计算FireDAO的投票权，计算每一个DAO成员的投票权重。
+As long as a user mints a Soul Account, he can become a full member of FireDAO and each Soul Account will be assigned a FID that represents the On-chain Reputation of the Soul Account. Meanwhile, parameters such as username, social info can be set as comprehensive display page for community members.Each wallet can mint only one Soul Account and generate one FID, and this account is not transferable. This Soul Account records the SBT information of different Soulbound tokens owned by this wallet.
 
-&emsp;&emsp;FireSoul 灵魂账户可以以全民公投的形式通过社区治理升级，增加或者减少灵魂绑定代币SBT的类型，调整不同的灵魂绑定代币SBT的权重系数，重新计算FID的综合信誉分数。
+Different SBTs have different weight coefficients. The comprehensive weight of a Soul Account is calculated by multiplying the number of SBT positions by the weight coefficient. This comprehensive weight also becomes the FID comprehensive credit score of the Soul Account. The comprehensive reputation score of FID determines the voting power of FireDAO and its voting weight of each DAO member.
 
-&emsp;&emsp;灵魂账户可以燃烧销毁，与DAO断绝关系，账户烧毁的同时会烧毁账户内的灵魂绑定代币SBT。灵魂账户销毁后，需要重新燃烧一枚火种才可以重新生成一个灵魂账户。
+FireSoul account can be upgraded through community governance in the form of referendum, increasing or decreasing the type of Soulbound token SBT, adjusting the weight coefficient of different Soulbound token SBT, and recalculating the comprehensive reputation score of FID.
+
+The Soul Accounts can be burned and destroyed, and the relationship with the DAO will be cut off. When the account is burned, the Soulbound token SBTs in the account will be burned. After the soul account is burnt,  it is necessary to re-burn a FireSeed to regenerate a new Soul Account.

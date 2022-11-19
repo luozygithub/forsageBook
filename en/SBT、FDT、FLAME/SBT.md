@@ -1,21 +1,16 @@
-# 灵魂锁定通证SBT
+## SBT
 
-&emsp;&emsp;六种灵魂绑定代币SBT：分别为FD-SBT-001、FD-SBT-002、FD-SBT-003、FD-SBT-004、FD-SBT-005和FD-SBT-006，它们分别记录了每个DAO正式成员不同的社区行为和数据统计。这6个SBT都属于ERC20代币标准，发行数量由链上智能合约根据每一个DAO正式成员的不同的社区行为自动铸造和自动销毁。
+Six  Soulbound tokens : FD-SBT-001, FD-SBT-002, FD-SBT-003, FD-SBT-004, FD-SBT-005 and FD-SBT-006 , which respectively record the different community activities and data of each full DAO member.
 
-1、FD-SBT-001: ERC20, FD-SBT-001属于FDT持仓综合统计SBT，主要用于生态内FDT的锁仓信息统计。当FDT以不同的形式锁仓时，铸造对应比例的FD-SBT-001，当用户从相应的锁仓合约提取FDT时，再同比例销毁相应数量的FD-SBT-001，最终根据每个灵魂账户的FD-SBT-001数量来计算生态收入分红权。核心思想是DAO愿意奖励与生态长期发展的用户，锁仓时间越长，奖励权重越大。
+These six SBTs are using ERC20 token standard  and the issuance quantity will be automatically minted and burned by the smart contracts on chain according to each DAO member’s community activities.
 
-FD-SBT-001一共有4种发放场景：  
-(1)FDT锁仓挖矿时按照数量和权重铸造和销毁不同数量的FD-SBT-001；  
-(2)FDT流动性挖矿时按照数量和权重铸造和销毁不同数量的FD-SBT-001;  
-(3)FLAME兑换成FDT时铸造和销毁不同数量的FD-SBT-001；  
-(4)FDT共识挖矿时铸造和销毁不同数量的FD-SBT-001。  
+## Introduction of  FireDAO SBTs
 
-2、FD-SBT-002: ERC20, FD-SBT-002属于激励代币FLAME兑换综合统计SBT，主要用于生态贡献统计，用于每一个DAO正式成员对DAO的综合贡献，每兑换100枚FLAME奖励1枚FD-SBT-002，未来DAO将会针对FD-SBT-002的持仓情况进行专项奖励。
-
-3、FD-SBT-003: ERC20, FD-SBT-003属于身份代币FireSeed推广业绩综合统计SBT，当一个社区成员燃烧火种铸造火魂时，给他的一级推荐人奖励10枚FD-SBT-003，给他的二级推荐人奖励3枚FD-SBT-003，给他的三级推荐人奖励1枚FD-SBT-003。
-
-4、FD-SBT-004: ERC20, FD-SBT-004属于社区治理投票参与综合统计SBT，当一个DAO正式成员参加社区公投投票时，可以奖励100枚FD-SBT-004，用于统计他的社区参与度。
-
-5、FD-SBT-005: ERC20, FD-SBT-005属于FDT流动性挖矿综合统计SBT，根据LP锁仓时LP的数量和权重系统来确定铸造FD-SBT-005的数量，活期锁仓情况下，1枚LP可以铸造1000枚FD-SBT-005，如果锁仓3个月，权重系数为3，存入1枚LP则可以铸造3000枚FD-SBT-005。同时如果锁仓时间结束，需要从矿池中取出LP，则根据取出LP的比例销毁同等比例的FD-SBT-005。
-
-6、FD-SBT-006: ERC20, FD-SBT-006属于FDT锁仓挖矿综合统计SBT，根据FDT锁仓时包含FDT的数量和权重系数来确定FD-SBT-006的铸造数量，如果此时锁仓10000枚FDT，锁仓3个月，权重系数为3，则同比铸造30000枚FD-SBT-006。如果锁仓时间结束，需要从矿池中取出FDT，则根据此锁仓订单中取出FDT的比例销毁同等比例的FD-SBT-006。如果锁仓时间到了，不从锁仓矿池中提取FDT，则此笔FDT继续享受原来政策。
+|  No. | Name |  Symbol   |  Type  |  SBT Detailed Introduction
+| :--: |  :------------:  | :--------: | :---: | -------
+|  1.  | FD-SBT-001 | FD-SBT-001 | ERC20 | FD-SBT-001 is one of the comprehensive statistics SBT of FDT holdings. It is mainly used for FDT lock information statistics in the ecosystem. When FDT is locked in different forms, the corresponding proportion of FD-SBT-001 is minted. When the lock-up contract withdraws FDT, the corresponding amount of FD-SBT-001 is burned in the same proportion, and finally the ecological income dividend right is calculated according to the amount of FD-SBT-001 in each Soul Account. The core idea is that DAO is willing to reward users who have a long-term relationship with the ecosystem. The longer the lock-up period, the greater the reward weight.<br><br>FD-SBT-001 has a total of 4 distribution scenarios: <br> (1) Different amounts of FD-SBT-001 are minted and burned according to the quantity and weight during FDT lock-up mining; <br> (2) During FDT Liquidity LP mining, different quantities of FD-SBT-001 are minted and burned according to the quantity and weight; <br> (3) Different amounts of FD-SBT-001 are minted and burned when FLMs are converted into FDTs; <br> (4) Different amounts of FD-SBT-001 are minted and burned during FDT consensus mining.
+|  2.  | FD-SBT-002 | FD-SBT-002 | ERC20 | FD-SBT-002 belongs to FLM exchange comprehensive statistical SBT, which is mainly used for ecological contribution statistics. It is used for the combined contribution of each full DAO member to the DAO. 1 FD-SBT-002 will be minted for every 10 FLM exchanged. In the future, DAO will provide special rewards for the holdings of FD-SBT-002. The specific minting  ratio of FD-SBT-002 will be adjusted according to the actual operation situation.
+|  3.  | FD-SBT-003 | FD-SBT-003 | ERC20 | FD-SBT-003 is the FireSeed promotion performance comprehensive statistics SBT. When a community member burns a FireSeed to create a FireSoul, his first-level referral will be rewarded with 7 FD-SBT-003 and his second-level referral 2 FD-SBT-003, and the third-level referral 1 FD-SBT-003.The specific minting  ratio of FD-SBT-003 will be adjusted according to the actual operation situation.
+|  4.  | FD-SBT-004 | FD-SBT-004 | ERC20 | FD-SBT-004 belongs to the Community Governance Vote Participation Integrated Statistics SBT, and when a full DAO member votes in a community referendum, 100 FD-SBT-004 can be awarded to count his community participation.The specific minting  ratio of FD-SBT-004 will be adjusted according to the actual operation situation.
+|  5.  | FD-SBT-005 | FD-SBT-005 | ERC20 | FD-SBT-005 is an FDT Liquidity LP mining comprehensive statistics SBT. The number of minted FD-SBT-005s is determined by the number of LPs and the weighting system when LP is locked. In the case of current lock, 1 LP can be minted to 10 FD-SBT-005s, if locked for 3 months, the weight factor is 3, and 1 LP can be minted to 30 FD-SBT-005s. At the same time, if the lock-up period matures and LPs need to be withdrawn from the mining pool, the same proportion of FD-SBT-005s will be burned according to the proportion of withdrawn LPs.The specific minting  ratio of FD-SBT-005 will be adjusted according to the actual operation situation.
+|  6.  | FD-SBT-006 | FD-SBT-006 | ERC20 | FD-SBT-006 is an FDT lock-up mining comprehensive statistics SBT.The minting quantity of FD-SBT-006 is determined by the number and weight coefficient of FDTs included in FDT lock-up. If 10,000 FDTs are locked at this time, lock-up period 3 month, and the weight factor 3, then 30,000 FD-SBT-006s will be minted . If the lock-up matures and FDTs need to be withdrawn from the mining pool, the same proportion of FD-SBT-006 will be burned according to the proportion of FDTs withdrawn in the lock-up order. If the lock-up matures and FDTs are not withdrawn from the lock-up pool, the FDTs will continue to enjoy the benefit of the original policy.

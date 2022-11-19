@@ -1,17 +1,18 @@
-# FireDAO经济模型
+# FireDAO Economic Model
 
-&emsp;&emsp;“FireDAO”实行“3+1+6”的通证经济学模型，一共有10种不同类型的通证来维持和维护整个链上经济体的运作和拓展，最终形成一个可以自动运转的、不断循环的、生生不息的、践行真正加密精神的链上超级经济体。
+FireDAO implements the 3+1+6 Tokenomics model. There are a total of 10 different types of tokens to maintain the operation and expansion of the entire chain economy in order to  form an automatic, cyclical, endless, on-chain super-economy that practices the true spirit of encryption.
 
-&emsp;&emsp;**3指的是3种生态通证：分别为“FireDAO”生态治理通证FDT，“FireDAO”生态激励通证FLAME和“FireDAO”生态身份通证FireSeed。**
+3 refers to three types of ecological tokens: FireDAO Ecological Governance Token FDT,FireDAO Ecological Incentive Token FLM and FireDAO Ecological Identity Token FireSeed.
 
-&emsp;&emsp;FDT属于FireDAO生态中的治理通证，属于整个生态最核心的通证，拥有整个生态的核心治理权和生态的分红权，整个生态都围绕FDT构建。
+FDT is the governance token in the FireDAO ecosystem, the core token of the whole ecosystem. It is embedded with the core governance rights of the whole ecosystem and the right to distribute dividends. The whole ecosystem is built around FDT.
 
-&emsp;&emsp;FLAME属于FireDAO生态中的激励通证，以生态激励的形式发放给生态中的各个参与主体。在FireDAO生态中，FLAME永远可以以0.01USD的价值兑换成治理通证FDT，被兑换的FDT以每个区块的速度线性释放，两年时间释放完毕。
+FLM is the incentive token in the FireDAO ecosystem to be issued to each participant in the ecosystem in the form of ecological incentives. In the FireDAO ecosystem, FLM can always be exchanged for the governance token FDT at the value of 0.01USD, and the exchanged FDTs will be released linearly at the speed of each block within a period of two years.
 
-&emsp;&emsp;FireSeed属于FireDAO生态中的身份通证，用于加入DAO的门槛及推荐奖励定位。加入FireDAO需要燃烧1枚FireSeed生成一个灵魂绑定账户FireSoul，即可成为FireDAO的正式成员。同时用于推荐关系的确定，当一个钱包第一次往一个从来没有FireSeed的钱包转入1枚FireSeed时，转入钱包则成为被转入钱包的推荐人，以此来确定FireDAO生态中的推荐关系。FireSeed通过两种方法获得，一是由FireDAO官方社区免费空投，二是社区成员自行到“圣火台”采集，每采集一枚火种需要支付100Busd。
+FireSeed is the identity token in the whole FireDAO ecosystem, which is used for the threshold of joining DAO and the positioning of recommendation rewards. To join FireDAO, you need to burn 1 FireSeed to generate a Soulbound account FireSoul, and then you become a full member of FireDAO. When a wallet transfers 1 Fireseed to another wallet that has never had any FireSeed before, this wallet can become the recommender of the receiving wallet.
 
-&emsp;&emsp;**1指的是1个灵魂账户：FireSoul，不可转让，灵魂绑定。**
+In this way the referrer relations are determined. FireSeed can be obtained in two ways: free airdrop from the FireDAO official team and community members claim it from the Holy Fire Altar. Community members need to donate 100USD for each FireSeed minted.
+1 refers to a Soul Account: FireSoul, non-transferable, soul bound. 
+FireSoul is the Soul Account of FireDAO. It is minted by burning the identity token FireSeed. Each wallet can only mint one  Soul Account, which is not transferable.This  Soul Account  records the SBT information of different Soulbound tokens owned by this wallet.
 
-&emsp;&emsp;FireSoul属于火种DAO的灵魂账户，由身份代币FireSeed燃烧铸造而成，每个钱包只能铸造一个灵魂账户，这个账户不可转让，这个灵魂账户记录这个钱包拥有的不同的灵魂绑定代币SBT信息。当一个用户铸造一个灵魂账户后，就可以成为FireDAO的正式成员。每一个灵魂账户都会分配一个FID，这个ID属于这个灵魂账户的“链上声誉”，同时可以设置用户的用户名、社交信息等，作为社区成员的综合信息展示页面。
-
-&emsp;&emsp;**6指的是6种灵魂绑定代币SBT：分别为FD-SBT-001、FD-SBT-002、FD-SBT-003、FD-SBT-004、FD-SBT-005和FD-SBT-006，它们分别记录了每个DAO正式成员不同的社区行为和数据统计。这6个SBT都属于ERC20代币标准，发行数量由链上智能合约根据每一个DAO正式成员的不同的社区行为自动铸造和自动销毁。**
+As long as a user mints a Soul Account, he can become a full member of FireDAO and each Soul Account will be assigned an FID that represents the On-chain Reputation of the Soul Account. Meanwhile, parameters such as username, social info can be set as comprehensive display page for community members.
+6 refers to six Soulbound tokens or SBTs: FD-SBT-001, FD-SBT-002, FD-SBT-003, FD-SBT-004, FD-SBT-005 and FD-SBT-006 , which respectively record the different community activities and data of each full DAO member. These six SBTs are using ERC20 token standard and and the issuance quantity will be automatically minted and burned by the smart contracts on chain according to the different community activities of each DAO full member.
