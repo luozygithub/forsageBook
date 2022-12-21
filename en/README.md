@@ -1,21 +1,96 @@
-## 什么是Yunus Loop DeFi？
+# Trust Wallet Setup
 
-各国银行存款的利息差别巨大，信息不对等的现象，在法国的贷款的年息在1.8%，在德国贷款的年息在2.6%，即使在英国贷款年息也只有4%。可是在不发达国家，贷款利率非常高，印度贷款年利率8%，土耳其贷款年利率12%，哥伦比亚贷款年利率19%，巴西贷款年利率30%，而在中国，私人之间的贷款年息超过36%。（比如中国和印度，他们一共有30亿人口），从传统借贷市场切分的超短期贷款和短期贷款市场（在不发达国家，这两块利息极高），这些保证了Yunus cycle的利润。通过Defi，Yunus让不发达国家的人们更容易的获得借款以改变个人创业和公司商业环境，Yunus智能合约团队把Muhammad Yunus先生的Grameen Bank做成了defi版本，并将它推向全世界。
+Forsage BUSD registration
 
-Yunus Loop DeFi智能借贷合约是一个基于TRON的开源货币市场协议，这是在波场链上开发的智能合约，任何人都可以在其中无风险的提供或借贷加密货币，为了获得收益奖励，加密货币持有者可以将资金存储到Yunus Loop去中心化借贷智能合约中开展无风险短期贷款和无风险超短期贷款业务，通过 Yunus Loop DeFi智能借贷合约提高周转率来保证利润获得回报。而资金使用者也可以跳过传统借贷金融审核复杂的过程，快速借到资金解决自己的燃眉之急，获得更多的机会。 Yunus Loop DeFi的魅力在于，与传统借贷机构相比，它们百分百安全、百分百透明、非常高效。Yunus Loop DeFi智能借贷合约不需要中心化机构的参与，使用区块链技术与智能合约自动完成交易，它不需要任何中心化机构检查你的信用评分，验证你的真实身份，也不需要花几天或几周的时间审查你的申请。 Yunus loop DeFi智能合约的运营模式远超传统的银行模式，以流动资金的方式聚集存款人的资金，并将资金贷给借款人，通过算法平衡供求、设定利率。Yunus Loop DeFi智能借贷合约通过区块链的去中心化和公开透明，让资金跨国得到合理的配置和使用，解决世界现有金融体系下，发达国家资金回报率低，不发达国家贷款资源匮乏的问题，同时让投资者获得较好的收益。
+### Download Trust Wallet
 
-###  Yunus Loop DeFi独特的亮点：
+Choose your device type and download the application:
 
-1.Yunus Loop DeFi采用分布式去中心化的流通返回方式，a当用户将USDT(TRC20/ERC20)存储到Yunus Loop智能借贷合约，合约将从Loop 0开始自动运行并且返回。
+**→** [Google Play (Android)](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&referrer=utm_source%3Dwebsite)
 
-2.Yunus Loop DeFi 公开透明、无需许可、任何人都有访问的权限，无需经过中央机构的认证。无论用户身处何处，都可以拥有相同的DeFi服务。
+**→** [AppStore (iOS)](https://apps.apple.com/app/apple-store/id1288339409?mt=8)
 
-3.Yunus Loop DeFi智能合约、没有所有者或管理人员，它已被部署为智能合约，并从部署完成的那时起独立运行。没有人可以篡改它，即使是创始人和开发人员，也只能以普通用户的身份参与其中。因为智能合约本质上是不可逆转的。 没有CEO或所有者可以更改Yunus Loop DeFi生态系统的规则和条款。创始人是普通用户，他们将与社区中的其他人一样遵循相同的规则和机制。
+### Install and setup
 
-4.Yunus Loop DeFi可互操作、所有协议都是开源的，可以满足用户组合DeFi应用，构建新的金融产品的需要。
+-
 
-5.Yunus Loop DeFi 无需许可、任何人都有访问权限，无需经过中央机构的认证。无论用户身处何处，都可以拥有相同的DeFi服务。
+Open wallet application and select **"Create a new wallet"**
 
-6.Yunus Loop DeFi参与简单、当用户使用USDT(TRC20-ERC20)分别从 Loop 0的1天，7天，17天完成资金流通后，智能合约将自动为用户提供升 Loop选择，让用户自主选择是否进入Loop1 至 Loop7，获得流通周期更长，收益率更高的对应借贷的周期和收益的流通方案。
+-
 
-7.Yunus Loop DeFi资金安全、当智能合约从用户那里收到资金时，其代码由网络中的所有节点执行，以便就结果和产生的价值达成共识。这就是允许智能合约在没有任何中央授权的情况下安全运行的原因，因此这是绝对安全的
+Confirm checkbox with Terms of Service and press **"Continue"**
+
+-
+
+Read closely warnings about your **Secret Recovery Phrase**, this will help to keep your crypto safe
+
+-
+
+Check all boxes and press **"Continue"**
+
+![img](https://115773543-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqPBDQnythKQ15N2Hil40%2Fuploads%2Fb7igvAdBKAE6HNVDggPZ%2FTRUSTM123.jpg?alt=media&token=4a156658-9fac-49c7-ad1d-7e5648a93ce6)
+
+-
+
+Wallet application will offer you to save your **Secret Recovery Phrase (12 words)** and then input it in proper order
+
+
+
+**Secret Recovery Phrase** is generated only once - during your wallet address creation process.
+
+**Secret Recovery Phrase** is the only way to keep safe and recover your wallet any time.
+
+Never share **Secret Recovery Phrase** with anyone under any circumstances - this will give lifetime access to your wallet for that person.
+
+-
+
+Confirm your successful wallet creation and you will see your assets list
+
+
+
+Now you need to add BUSD Token and BNB Coin display
+
+-
+
+Click on token finder icon on the **top right side**
+
+![img](https://115773543-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqPBDQnythKQ15N2Hil40%2Fuploads%2FvqWj0wXYaz9b39YRqP7y%2FTRUSTM45.jpg?alt=media&token=5c914ab2-3d59-41e7-95d4-1b3accd7b1d0)
+
+-
+
+Type **bnb** in search bar and click on checkbox to add **BNB Smart Chain** coin
+
+-
+
+Type **busd** in search bar and click on checkbox to add **Binance-Peg BUSD (BEP20)** token
+
+
+
+There may be similar token names, make sure you adding proper - double check when you select **BNB Smart Chain** and **Binance-Peg BUSD (BEP20)**
+
+-
+
+Click back icon and you will see newly added tokens in your assets list
+
+![img](https://115773543-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqPBDQnythKQ15N2Hil40%2Fuploads%2FfVnMby6nBsmglTKdtzPb%2FTRUSTM678.jpg?alt=media&token=ffed9903-a0e3-4daa-9645-961dffeb2a51)
+
+### How to copy wallet address
+
+-
+
+Click on **Binance-Peg BUSD** Token to enter its properties
+
+-
+
+To copy your crypto address that you need to fund with BUSD or BNB click on **"Receive"** icon
+
+-
+
+Copy the code of address for next operations
+
+
+
+Your BNB and BUSD will be located on same crypto address in blockchain - so you can copy it only once and use to purchase both BNB and BUSD.
+
+![img](https://115773543-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqPBDQnythKQ15N2Hil40%2Fuploads%2FXs8c16eppm0yVlowymQC%2FTRUSTM9.jpg?alt=media&token=40f18d52-6160-40d7-b15d-8cab9baadedb)
+

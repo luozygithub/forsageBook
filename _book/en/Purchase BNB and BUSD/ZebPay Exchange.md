@@ -151,17 +151,11 @@ You will get redirected to the next section - **Address Proof**
 
 Upload a clear image of any one of the documents mentioned below:
 
-    1. 1.
-
-    **Aadhaar Card**
-
-    2. 2.
-
-    **Driving Licence**
-
-    3. 3.
-
-    **Passport Utility Bill** *(within the last three months)*
+    1. **Aadhaar Card**
+    
+    2.**Driving Licence**
+    
+    3. **Passport Utility Bill** *(within the last three months)*
 
 You can upload any one of these documents as address proof.
 
@@ -203,21 +197,13 @@ Click on the **three horizontal lines** on the top left of the screen and go to 
 
 Enter the following details:
 
-    1. 1.
-
-    **Account Holder’s Name**
-
-    2. 2.
-
-    **Full Bank Name**
-
-    3. 3.
-
-    **Account Number** *(confirm the account number)*
-
-    4. 4.
-
-    **IFSC Code**
+    1. **Account Holder’s Name**
+    
+    2.**Full Bank Name**
+    
+    3. **Account Number** *(confirm the account number)*
+    
+    4. **IFSC Code**
 
 -
 
@@ -227,17 +213,11 @@ You need to upload the proof of your bank account ownership displaying the above
 
 You can upload any one of the following documents:
 
-    1. 1.
-
-    **Canceled Cheque**
-
-    2. 2.
-
-    **Bank Statement**
-
-    3. 3.
-
-    **First Page of Passbook**
+    1. **Canceled Cheque**
+    
+    2.**Bank Statement**
+    
+    3. **First Page of Passbook**
 
 
 
@@ -399,21 +379,13 @@ ZebPay only supports BNB in BEP-2 format. If you are purchasing BNB from ZebPay,
 
 Enter the following details:
 
-    1. 1.
-
-    **Address Label** or **Nickname**
-
-    2. 2.
-
-    **Recipient Address**
-
-    3. 3.
-
-    **Beneficiary’s Full Name**
-
-    4. 4.
-
-    **Beneficiary’s Platform**
+    1. **Address Label** or **Nickname**
+    
+    2.**Recipient Address**
+    
+    3. **Beneficiary’s Full Name**
+    
+    4.**Beneficiary’s Platform**
 
 -
 

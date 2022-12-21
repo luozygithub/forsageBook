@@ -1,4 +1,3 @@
-
 * [Сrypto Wallets]()
   - [Trust Wallet Setup](Сrypto Wallets/Trust Wallet Setup.md)
 
