@@ -1,9 +1,0 @@
-# Guild System
-
-In terms of overall function, FireDAO will be built by guilds.
-
-In order to better promote the construction and expansion of FireDAO, we will build guilds with different functions from the overall structure level. Each guild assumes different responsibilities, being responsible for the overall operation and construction of DAO. Guilds are defined by the standard in FireDAO as talent pools, which are dedicated to bringing together people with specific talents. In nature, it is similar to different functional departments in a company.
-
-Unlike Citynodes which do not require permission to join, community members need to apply to join different guilds. The preliminary review is the responsibility of the Team. As the guild develops to a certain stage, each guild will set up a special management committee that will be responsible for the guild management. Meanwhile, different guilds can apply to the DAO treasury for activity budgets, and members who contribute to the guild will also receive fixed or variable salary incentives to maximize the enthusiasm and initiative of outstanding community members.
-
-FireDAO will establish twelve guilds in the early stage of development, which will be adjusted according to the actual operation in the future. The twelve guilds are Finance Guild, Operations Guild, Investment Guild, Research Guild, Marketing Guild, Education Guild, Law Guild, Development Guild, Design & Video Guild , Translation Guild, Data Analysis Guild, and Charity and Public Welfare Guild. These twelve guilds have different functions, and any community member with FID can apply to the relative guild to join. Every member who joins the guild will become a core contributor to FireDAO.

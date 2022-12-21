@@ -1,5 +1,5 @@
 {
-    "title": "FireDAO白皮书",
+    "title": "forage",
     "language": "zh-hans",
     "plugins": [
         "edit-link",
@@ -14,11 +14,11 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/Allocard/book/blob/main",
+            "base": "https://github.com/cityflysky/forage/blob/main",
             "label": "EDIT"
         },
         "github": {
-            "url": "https://github.com/Allocard/book"
+            "url": "https://github.com/cityflysky/forage"
         },
         "hide-element": {
             "elements": [".gitbook-link"]
